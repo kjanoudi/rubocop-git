@@ -1,1 +1,5 @@
-    VERSION = '0.1.3'.freeze
+module RuboCop
+  module Git
+    VERSION = '0.1.3'
+  end
+end
