@@ -1,5 +1,3 @@
-module RuboCop
   module Git
-    VERSION = '0.1.2'
-  end
+    VERSION = '0.1.3'.freeze
 end
