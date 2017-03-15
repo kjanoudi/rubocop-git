@@ -4,7 +4,7 @@ $LOAD_PATH.unshift(lib) unless $LOAD_PATH.include?(lib)
 require 'rubocop/git/version'
 
 Gem::Specification.new do |spec|
-  spec.name          = 'rubocop-git'
+  spec.name          = 'rubocop-git-kjanoudi'
   spec.version       = RuboCop::Git::VERSION
   spec.authors       = ['Masaki Takeuchi']
   spec.email         = ['m.ishihara@gmail.com']
